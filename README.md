@@ -1,7 +1,7 @@
 
   # AI Image Description App
 
-  This is a code bundle for AI Image Description App. The original project is available at https://www.figma.com/design/3g5LzeO7aqLvtXxtZ1AosZ/AI-Image-Description-App.
+  This is a code bundle for AI Image Description App.
 
   ## Running the code
 
